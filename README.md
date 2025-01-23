@@ -22,6 +22,6 @@ Clone este repositório e abra o arquivo `index.html` em seu navegador.
 * Exibição dos resultados em uma lista
 
 ## Exemplos
-![Texto alternativo](challenge-amigo-secreto_pt-main\assets\telaInicial.png)
-![Texto alternativo](challenge-amigo-secreto_pt-main\assets\AdicionarAmigos.png)
-![Texto alternativo](challenge-amigo-secreto_pt-main\assets\sortearAmigo.png)
+![Texto alternativo](challenge-amigo-secreto_pt-main/assets/telaInicial.png)
+![Texto alternativo](challenge-amigo-secreto_pt-main/assets/AdicionarAmigos.png)
+![Texto alternativo](challenge-amigo-secreto_pt-main/assets/sortearAmigo.png)
